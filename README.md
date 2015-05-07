@@ -19,9 +19,10 @@
 ##联系方式
 
 * 邮件( lokavid@outlook.com)
-* QQ:791043467
 
 ##预览图
 #####主界面
-
 ![Image text](https://github.com/Lokavid/QiuBai/blob/master/ScreenShots/Home.png)
+
+####糗事详情及评论界面
+![Image text](https://github.com/Lokavid/QiuBai/blob/master/ScreenShots/comment.png)
